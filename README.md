@@ -39,7 +39,10 @@ If you use this code for your research, please consider citing this work:
 @inproceedings{serafim2024exploring,
   title     = {Exploring Large Language Models Capabilities to Explain Decision Trees},
   author    = {Serafim, Paulo Bruno and Crescenzi, Pierluigi and Gezici, Gizem and Cappuccio, Eleonora and Rinzivillo, Salvatore and Giannotti, Fosca},
-  booktitle = {2024 Hybrid Human Artificial Intelligence (HHAI)},
-  year      = {2024}
+  booktitle = {Proceedings of the Third International Conference on Hybrid Human-Artificial Intelligence},
+  year      = {2024},
+  volume    = {386},
+  pages     = {64--72},
+  doi       = {10.3233/FAIA240183}
 }
 ```
