@@ -38,8 +38,13 @@ If you use this code for your research, please consider citing this work:
 ```
 @inproceedings{serafim2024exploring,
   title     = {Exploring Large Language Models Capabilities to Explain Decision Trees},
-  author    = {Serafim, Paulo Bruno and Crescenzi, Pierluigi and Gezici, Gizem and Cappuccio, Eleonora and Rinzivillo, Salvatore and Giannotti, Fosca},
-  booktitle = {Proceedings of the Third International Conference on Hybrid Human-Artificial Intelligence},
+  author    = {Serafim, Paulo Bruno and
+    Crescenzi, Pierluigi and
+    Gezici, Gizem and
+    Cappuccio, Eleonora and
+    Rinzivillo, Salvatore and
+    Giannotti, Fosca},
+  booktitle = {Frontiers in Artificial Intelligence and Applications - HHAI 2024: Hybrid Human AI Systems for the Social Good},
   year      = {2024},
   volume    = {386},
   pages     = {64--72},
